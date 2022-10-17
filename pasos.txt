@@ -1,0 +1,18 @@
+npx create-react-app nombreApp
+
+creo la carpeta antes y en lugar de ponerle nombre a la app utilizo "./" para que se cree en la carpeta en la que estoy directamente
+
+
+una vez que se nos crea el proyecto cada vez que iniciamos con el node solo nos faltaria hacer el npm start
+cada vez que estemos yendo al lugar de donde querramos dar la ejecucion
+
+Una vez que tenemos la pestaña tenemos todo el acceso a los metodos como por ejemplo
+
+npm start para iniciar el proceso
+npm run build para poder dar los cambios
+npm test para probar las ejecuciones
+npm run eject 
+tenemos igual que empezar siempre por el 
+cd ACarpetaGuia
+npm start
+
